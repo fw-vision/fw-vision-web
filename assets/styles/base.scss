@@ -1,13 +1,30 @@
-// Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.cdnfonts.com/css/merriweather');
+@import url('https://fonts.cdnfonts.com/css/cooper-hewitt-book');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-body: "Cooper Hewitt Book";
+  --font-header: "Cooper Hewitt Book";
+  --font-mono: "Cooper Hewitt Book"
 }
+/*
+font-family: 'Cooper Hewitt Book', sans-serif;
+font-family: 'Cooper Hewitt Thin', sans-serif;
+font-family: 'Cooper Hewitt Thin Italic', sans-serif;
+font-family: 'Cooper Hewitt Light', sans-serif;
+font-family: 'Cooper Hewitt Light Italic', sans-serif;
+font-family: 'Cooper Hewitt Book Italic', sans-serif;
+font-family: 'Cooper Hewitt Medium', sans-serif;
+font-family: 'Cooper Hewitt Medium Italic', sans-serif;
+font-family: 'Cooper Hewitt Semibold', sans-serif;
+font-family: 'Cooper Hewitt Semibold Italic', sans-serif;
+font-family: 'Cooper Hewitt Bold', sans-serif;
+font-family: 'Cooper Hewitt Bold Italic', sans-serif;
+font-family: 'Cooper Hewitt Heavy', sans-serif;
+font-family: 'Cooper Hewitt Heavy Italic', sans-serif;
+*/
 
 // typography
 html {
+  background-color: var(--light);
   scroll-behavior: smooth;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
@@ -20,13 +37,59 @@ html {
   }
 }
 
-.singlePage {
-  padding: 4em 30vw;
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
   @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
+    padding: 25px 0px;
+  }
+  .subheader {
+    margin-top: -30px;
+  }
+  .hero {
+    margin-top: 90px;
+    margin-bottom: 20px;
   }
 }
 
+.tagline-cta { 
+  text-align: center; 
+  font-family: 'Cooper Hewitt Medium';
+  font-weight: 900;
+  margin-top: 120px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  color: black;
+  img { 
+    margin: -2px 5px; 
+    height: 44px;
+  }
+}
+
+.callout-cta {
+  background-color: var(--primary);
+  text-align: center;
+  padding: 55px;
+  font-size: 22px;
+  .button-cta {
+    margin: 0px 15px;
+    padding: 10px 15px;
+    color: var(--light);
+    font-family: "Cooper Hewitt Book"; 
+    border: 1px solid var(--light);
+  }  
+}
+
+.profile-pic {
+  img { margin-top: 5px; }
+  h5 { margin-top: 5px; text-align: center; }
+}
+
+.bio-section {
+  margin: 0px 20px;
+  padding: 0px 20px;
+  h1 { margin-top: 0px; }
+}
 
 body {
   margin: 0;
@@ -37,17 +100,22 @@ body {
   background-color: var(--light);
 }
 
+h1 {
+  font-size: 3.4rem;
+  color: var(--primary);
+}
+h2 { font-size: 2rem; }
+h3 { font-size: 1.8rem; }
+h4 { font-size: 1.6rem; }
+h5 { font-size: 1.4rem; }
+
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
-  color: var(--dark);
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
-
-  &:hover > .hanchor {
-    color: var(--secondary);
-  }
 }
+.highlight { color: var(--primary); }
 
 .hanchor {
   font-family: var(--font-header);
@@ -129,7 +197,6 @@ td, th {
 img {
   max-width: 100%;
   border-radius: 3px;
-  margin: 1em 0;
 }
 
 p > img + em {
@@ -264,10 +331,6 @@ a {
   font-weight: 700;
   text-decoration: none;
   transition: all 0.2s ease;
-  color: var(--secondary);
-  &:hover {
-    color: var(--tertiary) !important;
-  }
 }
 
 pre {
@@ -293,6 +356,7 @@ code {
 footer {
   margin-top: 4em;
   text-align: center;
+  background-color: var(--lightgray);
   & ul {
     padding-left: 0;
   }
@@ -360,10 +424,25 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 1em 0 2em;
+  margin: 2em 0 2em;
+  font-family: "Cooper Hewitt Book";
 
-  & > h1 {
-    font-size: 2em;
+  img {
+    height: 40px;
+    width: 274px;
+  }
+
+  .nav-item {
+    padding: 10px 15px;
+    margin-left: 15px;
+    font-size: 22px;
+    a {font-family: "Cooper Hewitt Book"; }
+  }
+
+  .nav-cta {
+    color: var(--primary);
+    border: 1px solid var(--primary);
+    a {color: var(--primary); }
   }
 
   & > nav {
@@ -373,15 +452,16 @@ header {
   }
 
   #search-icon {
-    background-color: var(--lightgray);
     border-radius: 4px;
     height: 2em;
     display: flex;
     align-items: center;
+    font-family: "Cooper Hewitt Book";
     cursor: pointer;
     & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
+      font-family: "Cooper Hewitt Book";
     }
   }
 

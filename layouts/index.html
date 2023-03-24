@@ -4,17 +4,84 @@
 
 <body>
 {{partial "search.html" .}}
-<div class="singlePage">
+<div class="singlePage"> 
+  <div class="container">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
-    <article>
-        {{partial "toc.html" .}}
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
-    </article>
+    <section class="hero">
+      <h1>Clarity for Entrepreneurial Innovations</h1>
+      <h4>
+        You are an innovator in Education, Sustainablilty, or Health.
+      </h4>
+      <h4>
+        Now it's time to bring your venture to scale, 
+        by <span class="highlight">focusing your brand</span>, 
+        <span class="highlight">refining your strategy</span>, 
+        and <span class="highlight">raising the necessary funds</span>.
+      </h4>
+      <h4>
+        You must move fast, and move efficiently.
+      </h4>
+    </section>
+  </div>
+  <div class="tagline-cta">
+    <span>We Are Here to Enable Your</span>
+    <img src="/logo-growth.png"/>
+  </div>
+  <div class="callout-cta">
+    <a class="button-cta" href="">Learn More</a>
+    <a class="button-cta" href="">Schedule a Call</a>
+  </div>
+  <div class="container">
+    <section class="hero">
+      <div class="columns">
+        <div class="column is-one-third profile-pic">
+          <img src="francis.jpg"/>
+          <h5>Francis Wang, Venture Coach</h5>
+        </div>
+        <div class="column bio-section">
+          <h1>Meet Francis Wang</h1>
+          <h4>
+            Francis is the founder and resident Venture Coach at FW.VISION. 
+            He has over a decade of experience in new venture creation, and has been heavily involved in sustainablilty for the past eight years. Reflecting on preferred futures of a sustainable world, he found his vocation in spearheading and fostering innovation of critical sustainable development sectors.
+            Francis will be your direct contact throughout this collaboration.
+          </h4>
+        </div>
+      </div>
+      <h3>Vision Essays</h3>
+      <div class="columns">
+        <div class="column">vision essay1 abstract</div>
+        <div class="column">vision essay2 abstract</div>
+      </div>
+    </section>
+  </div>
+  <div class="tagline-cta">
+    <span>We Are Here to Enable Your</span>
+    <img src="/logo-growth.png"/>
+  </div>
+  <div class="callout-cta">
+    <a class="button-cta" href="">Learn More</a>
+    <a class="button-cta" href="">Contact Us</a>
+  </div>
+  <div class="container">
+    <section class="hero">
+      <div class="columns">
+        <div class="column">
+          <h4>Check Out Our Blog</h4>
+        </div>
+        <div class="column">
+          <h4>Featured Projects</h4>
+        </div>
+        <div class="column">
+          <h4>Signals and Drivers</h4>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="container">
     {{partial "footerIndex.html" .}}
+  </div>
 </div>
+{{partial "footer-contact.html" .}}
 </body>
 </html>

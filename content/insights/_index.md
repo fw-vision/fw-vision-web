@@ -1,0 +1,4 @@
+---
+title: "Insight"
+layout: staticpage
+---
