@@ -1,5 +1,4 @@
 ---
 title: "Growth by FW.VISION"
-layout: staticpage
+layout: growth
 ---
-fsdfsadfsfd

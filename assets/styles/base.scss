@@ -37,9 +37,16 @@ html {
   }
 }
 
+ul li::before {
+  content: "•";
+  border-radius: 10px;
+  padding-inline: 10px;
+  margin-inline-end: 10px;
+}
+
 .container {
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 1000px !important;
   @media all and (max-width: 1200px) {
     padding: 25px 0px;
   }
@@ -62,7 +69,7 @@ html {
   color: black;
   img { 
     margin: -2px 5px; 
-    height: 44px;
+    height: 45px;
   }
 }
 
@@ -81,7 +88,7 @@ html {
 }
 
 .profile-pic {
-  img { margin-top: 5px; }
+  img { margin-top: 10px; }
   h5 { margin-top: 5px; text-align: center; }
 }
 
@@ -116,6 +123,7 @@ h1, h2, h3, h4, h5, h6, thead {
   padding: 2rem auto 1rem;
 }
 .highlight { color: var(--primary); }
+.bolded { font-family: "Cooper Hewitt SemiBold"; }
 
 .hanchor {
   font-family: var(--font-header);
