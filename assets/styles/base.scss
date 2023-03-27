@@ -48,7 +48,7 @@ ul li::before {
   margin: 0 auto;
   max-width: 1000px !important;
   @media all and (max-width: 1200px) {
-    padding: 25px 0px;
+    padding: 25px 40px;
   }
   .subheader {
     margin-top: -30px;
@@ -112,13 +112,14 @@ body {
 }
 
 h1 {
-  font-size: 3.4rem;
+  font-size: 3.2rem;
   color: var(--primary);
 }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.8rem; }
-h4 { font-size: 1.6rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.5rem; }
 h5 { font-size: 1.4rem; }
+p { font-size: 1.2rem; }
 
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
