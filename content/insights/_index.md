@@ -1,4 +1,5 @@
 ---
-title: "Insight"
+title: "Insights"
 layout: staticpage
 ---
+Page under construction.

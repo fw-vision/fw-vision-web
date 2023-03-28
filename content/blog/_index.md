@@ -2,4 +2,4 @@
 title: "Blog"
 layout: staticpage
 ---
-sdf
+Page under construction.
