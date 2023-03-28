@@ -1,4 +1,4 @@
-baseURL = "https://fw-vision.github.io/fw-vision-web/"
+baseURL = "http://fw.vision/"
 languageCode = "en-us"
 googleAnalytics = "G-PZ7Z2GEQK3"
 relativeURLs = false
