@@ -37,11 +37,13 @@ html {
   }
 }
 
-ul li::before {
-  content: "•";
-  border-radius: 10px;
-  padding-inline: 10px;
-  margin-inline-end: 10px;
+.enable-ul-bullets {
+  ul li::before {
+    content: "•";
+    border-radius: 10px;
+    padding-inline: 10px;
+    margin-inline-end: 10px;
+  }
 }
 
 .container {
@@ -118,11 +120,16 @@ h1 {
   font-size: 3.2rem;
   color: var(--primary);
 }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.5rem; }
+h2 { font-size: 1.8rem !important; font-family: "Cooper Hewitt SemiBold" !important; }
+h3 { font-size: 1.6rem !important; }
+h4 { font-size: 1.5rem !important; }
 h5 { font-size: 1.4rem; }
 p { font-size: 1.2rem; }
+.blogtext {
+  ul { font-size: 1.2rem; }
+  strong { font-family: "Cooper Hewitt SemiBold"; }
+  p a { text-decoration: underline; }
+}
 
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);

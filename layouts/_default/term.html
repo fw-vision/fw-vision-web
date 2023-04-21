@@ -5,6 +5,7 @@
 <body>
 {{partial "search.html" .}}
 <div class="singlePage">
+  <div class="container">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
     <article>
@@ -15,7 +16,7 @@
         {{partial "page-list.html" .Paginator.Pages}}
         {{ template "_internal/pagination.html" . }}
     </article>
-    {{partial "contact.html" .}}
+  </div>
 </div>
 </body>
 </html>

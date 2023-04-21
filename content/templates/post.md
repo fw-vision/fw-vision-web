@@ -1,5 +1,4 @@
 ---
 title: "{{title}}"
-tags:
-	- FW.VISION
+tags: FW-VISION
 ---
