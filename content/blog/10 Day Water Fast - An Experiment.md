@@ -4,7 +4,7 @@ tags: [Personal, Fasting]
 ---
 After planning for a bit, I've decided to do a 10-Day Water Fast (Apr 20 – Apr 30, 2023).
 
-The longest water fast I've done was for 3 days, I remember feeling energetic and satiated at the end of it; only stopped on dinner plans with some friends. That left me wondering since, could I have gone 5 days? Maybe longer? How would my body feel?
+The longest water fast I've done was for 3 days, I remember feeling energetic and satiated at the end of it; only stopped for dinner plans with some friends. That left me wondering since, could I have gone 5 days? Maybe longer? How would my body feel?
 
 
 **Do not attempt what I'm doing at home. Consult a medical professional first if you want to explore prolonged fasts.**
@@ -13,7 +13,7 @@ I plan to make daily reflections and updates to this article, also for it to ser
 
 ## Motivations
 
-The health benefits of intermittent fasting are well documented at this point, my original 3-day water fast was done to reap the benefits of cellular autophagy (at 24 hrs+) and growth hormone release (at 36 hrs+), as well as some gut rest. Arguably, a 3-day or 5-day water fast gives you all the potential health benefits, and can be done relatively safely.
+The health benefits of intermittent fasting are well documented at this point, my original 3-day water fast was done to reap the benefits of cellular autophagy (at 24 hrs+) and growth hormone release (at 36 hrs+), as well as some gut rest. **Arguably, a 3-day or 5-day water fast gives you all the potential health benefits, and can be done relatively safely.**
 
 A 10-Day Water Fast is more so to explore my own psychology and physiology.
 
@@ -21,10 +21,10 @@ I also put on 10 pounds (4.54 kg) in the past month from stress eating, would be
 
 ## Goals
 
-* Reset my tolerance for caffeine and sugar, reset my gut microbiome.
-* Exercise in discipline and determination, push my own mettle.
-* Lose whatever weight in the process, no specific target.
-* Capitalize on the productivity boost from not needing to think about what to eat for a while.
+* **Reset my tolerance** for caffeine and sugar, reset my gut microbiome.
+* **Exercise in discipline** and determination, push my own mettle.
+* **Lose whatever weight** in the process, no specific target.
+* **Capitalize on the productivity** boost from not needing to think about what to eat for a while.
 	* Permaculture site design for my new farm.
 	* EMBA coursework and prep for capstone project.
 	* Training in GMB and WHM apprenticeships.
@@ -54,5 +54,12 @@ Energy levels were high, took an hour walk on the treadmill and going to bed aft
 
 ### Day 2
 
-...
+**Felt a wave of hunger hit me about 30 hours into the fast**. After that, I no longer felt hunger, but rather just a feeling of emptiness in my stomach. From my experience, this should be the hardest part of the fast (at least for a 3-day).
+
+Energy levels are great, **I did 90 mins of GMB training (think gymnastics mixed with yoga)** without feel extra strained, although I did fail miserably at my initial attempts at kick-up handstands.
+
+I did drink too much water (but it's the only thing I get to take) near bedtime, and remember feeling restless on bed, including a bathroom trip. However, my Muse S EEG says that my **sleep quality was a whooping 89%**, which was a PB for me. There seems to be some validity to Bryan Johnson's claim that you sleep better while fasted.
+
+
+
 
