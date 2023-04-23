@@ -58,8 +58,17 @@ Energy levels were high, took an hour walk on the treadmill and going to bed aft
 
 Energy levels are great, **I did 90 mins of GMB training (think gymnastics mixed with yoga)** without feel extra strained, although I did fail miserably at my initial attempts at kick-up handstands.
 
-I did drink too much water (but it's the only thing I get to take) near bedtime, and remember feeling restless on bed, including a bathroom trip. However, my Muse S EEG says that my **sleep quality was a whooping 89%**, which was a PB for me. There seems to be some validity to Bryan Johnson's claim that you sleep better while fasted.
+Also drank too much water (to be fair it's the only thing I get to take) near bedtime, and remember feeling restless on bed, plus a bathroom trip mid-sleep. However, my Muse S EEG says that my **sleep quality was a whooping 89%**, which was a PB for me. There seems to be some validity to Bryan Johnson's claim that you sleep better while fasted.
 
+### Day 3
+
+**I broke my PB in WHM breath hold today at 4:03s**, I'd attribute it to the good sleep I had last night. Also, this is when some folks reported feeling cold during their fasts. I feel fine so far, and is still able to continue at 2x 1 min cold shower daily.
+
+Completed three courses and an exam for my EMBA class and hit my productivity goals.
+
+I did read a lot more cautionary tales of mineral deficiency during water fasting, so I'm going to **add Athletic Greens (AG1) back on the menu**, which should supply me with all essential nutrients for each day. Here's to hoping it doesn't wake up my gut; don't want to hit the abort button until at least day 5.
+
+Energy levels are good, no headaches or light-headedness, no fatigue (however I didn't do any exercise today). Feels just about how I felt last time 72 hours into the fast.
 
 
 
