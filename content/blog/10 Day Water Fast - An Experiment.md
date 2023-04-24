@@ -70,5 +70,13 @@ I did read a lot more cautionary tales of mineral deficiency during water fastin
 
 Energy levels are good, no headaches or light-headedness, no fatigue (however I didn't do any exercise today). Feels just about how I felt last time 72 hours into the fast.
 
+### Day 4
 
+Had Athletic Greens in the morning, and **finished a 5 km run at my typical pace**. The run wasn't easier or harder than my normal 5 km runs that were either fed or (10 hr) fasted. I felt more comfortable with exercise after having replenished electrolytes in my body.
+
+One very surprising turn of events: **had a bowel movement today**, probably what's leftover from before the fast. This also means that my gut likely woke up from the Athletic Greens supplement, so far I'm feeling fantastic but will monitor to see if I should abort after day 5.
+
+Energy level were great, a mild hunger feeling has returned and lingers.
+
+One thing was that my extremities were colder than normal (I have cold hands and feet to begin with), so I took a foot bath in the evening, and probably another one before bed.
 
