@@ -6,7 +6,6 @@ After planning for a bit, I've decided to do a 10-Day Water Fast (Apr 20 – Apr
 
 The longest water fast I've done was for 3 days, I remember feeling energetic and satiated at the end of it; only stopped for dinner plans with some friends. That left me wondering since, could I have gone 5 days? Maybe longer? How would my body feel?
 
-
 **Do not attempt what I'm doing at home. Consult a medical professional first if you want to explore prolonged fasts.**
 
 I plan to make daily reflections and updates to this article, also for it to serve as an accountability tool. Also found [this guy](https://calathleticus.com/10-day-water-fast/) who did the same thing, he wrote much deeper reflections than I plan to.
@@ -72,7 +71,7 @@ Energy levels are good, no headaches or light-headedness, no fatigue (however I 
 
 ### Day 4
 
-Had Athletic Greens in the morning, and **finished a 5 km run at my typical pace**. The run wasn't easier or harder than my normal 5 km runs that were either fed or (10 hr) fasted. I felt more comfortable with exercise after having replenished electrolytes in my body.
+Had Athletic Greens in the morning, and **finished a 5 km run at my typical pace (90 hours into the fast)**. The run wasn't easier or harder than my normal 5 km runs that were either fed or (10 hr) fasted. I felt more comfortable with exercise after having replenished electrolytes in my body.
 
 One very surprising turn of events: **had a bowel movement today**, probably what's leftover from before the fast. This also means that my gut likely woke up from the Athletic Greens supplement, so far I'm feeling fantastic but will monitor to see if I should abort after day 5.
 
@@ -80,3 +79,16 @@ Energy level were great, a mild hunger feeling has returned and lingers.
 
 One thing was that my extremities were colder than normal (I have cold hands and feet to begin with), so I took a foot bath in the evening, and probably another one before bed.
 
+### Day 5
+
+I'm starting to feel hunger a lot more since my gut woke up, **decided to finish today and pivot the next 5 days into 20:4 intermittent fasting**. Part of this decision is also that when I took measurements this morning, my **body fat dropped by 1%** from the 5 km prolong fasted run, whereas my body composition was stable despite me being active and doing yoga etc.
+
+I believe that **the run forced my body to metabolize fat** (average HR 160bpm), and this **increased fat metabolism sustained for 24 hours**. Will be experimenting on this idea next, and it's seemingly very powerful (for me).
+
+The plan today is another 5 km run in the afternoon, and then a 1h30m swim in the evening to maximize my cardio burn under these conditions.
+
+...WIP
+
+Progression pictures on the morning of day 6. The next 5 days will be geared towards fasted cardio/weight training into my eating window where I can replenish protein.
+
+...WIP
