@@ -4,6 +4,9 @@ tags: [Personal, Fasting]
 ---
 After planning for a bit, I've decided to do a 10-Day Water Fast (Apr 20 – Apr 30, 2023).
 
+> [!note]
+> **Update:** After 136 hours of water fast, I've pivoted the remaining days to 20:4 intermittent fasting, with respect to some safety protocols I outlined in the beginning. Also, I noticed the benefits of ultra-fasted cardio; an eating window would allow me to replenish protein and add weight training back to my routines.
+
 The longest water fast I've done was for 3 days, I remember feeling energetic and satiated at the end of it; only stopped for dinner plans with some friends. That left me wondering since, could I have gone 5 days? Maybe longer? How would my body feel?
 
 **Do not attempt what I'm doing at home. Consult a medical professional first if you want to explore prolonged fasts.**
@@ -85,10 +88,14 @@ I'm starting to feel hunger a lot more since my gut woke up, **decided to finish
 
 I believe that **the run forced my body to metabolize fat** (average HR 160bpm), and this **increased fat metabolism sustained for 24 hours**. Will be experimenting on this idea next, and it's seemingly very powerful (for me).
 
-The plan today is another 5 km run in the afternoon, and then a 1h30m swim in the evening to maximize my cardio burn under these conditions.
+It's a workday today, so not much going on in terms of personal projects.
 
-...WIP
+Did **another 5 km run in the afternoon**, typical pace, 120 hours into the fast.
 
-Progression pictures on the morning of day 6. The next 5 days will be geared towards fasted cardio/weight training into my eating window where I can replenish protein.
+Also, **one hour swim in the evening, easy pace for 2500 m**, felt incredible after and almost makes me want to keep this up. However, let's stick to the adjusted plan. Only a night of sleep standup between me and great success for this segment.
 
-...WIP
+Progression pictures on the morning of day 6. The next 5 days will be geared towards fasted cardio/weight training into my eating window where I can replenish protein. The fasting **also fixed my ongoing high blood pressure issues**, which was sitting at 135/90 for a while.
+
+![day06](images/Day06.jpg)
+![day06_weight](images/Day06_withings.jpg)
+
