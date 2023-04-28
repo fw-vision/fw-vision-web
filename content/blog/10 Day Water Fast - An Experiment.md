@@ -5,7 +5,7 @@ tags: [Personal, Fasting]
 After planning for a bit, I've decided to do a 10-Day Water Fast (Apr 20 – Apr 30, 2023).
 
 > [!note]
-> **Update:** After 136 hours of water fast, I've pivoted the remaining days to 20:4 intermittent fasting, with respect to some safety protocols I outlined in the beginning. Also, I noticed the benefits of ultra-fasted cardio; an eating window would allow me to replenish protein and add weight training back to my routines.
+> **Update:** After 136 hours of water fast, I've pivoted the remaining days to 16:8 intermittent fasting, with respect to some safety protocols I outlined in the beginning. Also, I noticed the benefits of ultra-fasted cardio; an eating window would allow me to replenish protein and add weight training back to my routines.
 
 The longest water fast I've done was for 3 days, I remember feeling energetic and satiated at the end of it; only stopped for dinner plans with some friends. That left me wondering since, could I have gone 5 days? Maybe longer? How would my body feel?
 
@@ -98,4 +98,35 @@ Progression pictures on the morning of day 6. The next 5 days will be geared tow
 
 ![day06](images/Day06.jpg)
 ![day06_weight](images/Day06_withings.jpg)
+
+### Day 6
+
+I made a full 8qt of beef/radish/carrot broth today in my Ninja Foodi pressure cooker. **Drank only broth for the first 12 hours**, then worked to finish the whole pot by dinner. 
+
+I barely added any salt or seasoning to the broth, but this **normally plain broth tasted rich with flavour**. Also threw two pieces of corn on the cob in there, which was some of the first carb and fibre I took over a long time.
+
+### Day 7
+
+First time in the morning, did my GMB initial assessments on dead-hang, chin-ups, shrimp squat, and bridge. Need to significant improve on each of those four move sets to graduate my trainer program.
+
+Today is the start of the Dota 2 Berlin Major, every time a major happens I end up taking extended walks on the treadmill while catching up with some of the games. **This time I decided to up do interval runs for some fasted cardio** in the AM, and was able to do similar output to my typical 5 km pace.
+
+For my one meal, I ate a full Chicken Souvlaki plate with an extra piece of chicken thigh, plus an Iced Capp from Tim Hortons since I was out getting takeout and wanted coffee. In hindsight, that was **a massive mistake with 480 calories of sugar loaded consequences**.
+
+Also **made some six-bean soy milk today using a cooking blender** (you have to presoak the beans overnight), it tasted amazing even without adding any sweeteners. I like doing soy milk this way since it keeps the pulp (fibre). It's a versatile way to get some beans intake without making chili all the time.
+
+Not tracking macros, but based on how I feel, I definitely ate too much today.
+
+### Day 8
+
+Some weight rebound, but that's to be expected as I regain the water weight by having glycogen in my body once again. The scale says it's lean mass and my body fat ratio has gone down, but personally **I feel a down-turn from how much I've been eating**.
+
+Did a one-hour indoor run this morning, and **by jogging/walking on intervals instead of fully spending myself on every jog segment, it feels as if I can continue for much longer**. This is reassuring for my upcoming half-marathon, at least finishing should be within my abilities.
+
+Had dinner with a friend and again, **ate way too much, I'll end up paying for it tomorrow morning with an extended run**, aiming for two-hours, and maybe three hours for a mock half-marathon on the last day.
+
+Goal for tomorrow: eat much less, move a lot more, and keep it in 4-hour eating window.
+
+### Day 9
+
 
