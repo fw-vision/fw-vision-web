@@ -105,6 +105,8 @@ I made a full 8qt of beef/radish/carrot broth today in my Ninja Foodi pressure c
 
 I barely added any salt or seasoning to the broth, but this **normally plain broth tasted rich with flavour**. Also threw two pieces of corn on the cob in there, which was some of the first carb and fibre I took over a long time.
 
+**Sleep was messed up as I took a 6-hour nap** (or you can call sleep at this point) 5-11 pm from the food, and another went to bed again at 2 am. Another bad note is that since I spent a lot of the day “eating”, I also spent a lot of time watching Twitch/YouTube and **wasn't very productive**. Old habits die hard.
+
 ### Day 7
 
 First time in the morning, did my GMB initial assessments on dead-hang, chin-ups, shrimp squat, and bridge. Need to significant improve on each of those four move sets to graduate my trainer program.
@@ -131,3 +133,4 @@ Goal for tomorrow: eat much less, move a lot more, and keep it in 4-hour eating 
 
 ### Day 9
 
+todo: 2hr run, pdc assignment, capstone interviews, 
