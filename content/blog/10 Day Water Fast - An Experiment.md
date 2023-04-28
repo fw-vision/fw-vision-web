@@ -115,6 +115,8 @@ For my one meal, I ate a full Chicken Souvlaki plate with an extra piece of chic
 
 Also **made some six-bean soy milk today using a cooking blender** (you have to presoak the beans overnight), it tasted amazing even without adding any sweeteners. I like doing soy milk this way since it keeps the pulp (fibre). It's a versatile way to get some beans intake without making chili all the time.
 
+**Gathered a strong team for my EMBA capstone project today**, lots of energy in the initial call and signs of great things to come. Truly, I've aligned five different efforts (BCIN, GMB, WHM, PDC, EMBA) towards making this wellness resort project happen. **As a sucker for synergies, I am invigorated**.
+
 Not tracking macros, but based on how I feel, I definitely ate too much today.
 
 ### Day 8
@@ -128,5 +130,4 @@ Had dinner with a friend and again, **ate way too much, I'll end up paying for i
 Goal for tomorrow: eat much less, move a lot more, and keep it in 4-hour eating window.
 
 ### Day 9
-
 
