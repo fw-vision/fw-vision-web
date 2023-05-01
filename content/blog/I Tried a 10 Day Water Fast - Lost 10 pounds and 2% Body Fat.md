@@ -163,7 +163,7 @@ Progression photos from the following morning:
 ![day10](images/Day10.jpg)
 ![day06_weight](images/Day10_withings.jpg)
 
-### Conclusion
+## Conclusion
 
 Some things went as expected, the **first 3-days of water fasting was a breeze**. I'm glad that I listened to my body and health stats to refill on electrolytes, and switch over to regular intermittent fasting. 
 
